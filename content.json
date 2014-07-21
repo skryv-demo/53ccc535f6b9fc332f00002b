@@ -1,1 +1,76 @@
-{}
+{
+    "algemeen": {
+        "creatiedatum_van_klinische_file": "Wed Jul 16 2014 00:00:00 GMT+0200 (CEST)",
+        "jaar_van_datacollectie": 2013
+    },
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "Vrouw"
+        },
+        "overlijden": {
+            "selectedChoices": {}
+        },
+        "etniciteit_vader": {
+            "selectedChoice": "Maghrebijns"
+        },
+        "etniciteit_moeder": {
+            "selectedChoice": "Maghrebijns"
+        },
+        "geboortedatum": "Wed Jan 29 2003 00:00:00 GMT+0100 (CET)",
+        "datum_van_de_eerste_insulinetoediening": "Thu Dec 12 2013 00:00:00 GMT+0100 (CET)",
+        "patient_niss": 234,
+        "naam": "Check",
+        "voornaam": "Check"
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {
+                "selectedChoice": "Puberteit"
+            },
+            "insulineschema": {
+                "selectedChoice": "Individueel samengestelde mengsels toegediend 's morgens en 's avonds met occasioneel een extra toediening van snelle/ultrasnelle insuline"
+            },
+            "datum_van_de_meest_recente_consultatie": "Thu Dec 12 2013 00:00:00 GMT+0100 (CET)",
+            "de_patient_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false
+        },
+        "metingen": {
+            "0": [],
+            "lengte": {},
+            "gewicht": {},
+            "bloeddruk": {
+                "systolische_bloeddruk_mmhg": 120,
+                "diastolische_bloeddruk_mmhg": 100
+            },
+            "hba1c": {}
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreoidie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
